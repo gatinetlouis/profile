@@ -1,0 +1,87 @@
+body {
+  background-color: white;
+  color: #33363B;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 550;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 20px;
+}
+
+.logo-circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border:5px solid #E4DCC7;
+}
+
+.logo-circle:hover {
+  opacity : 0.4;
+}
+
+h1 {
+  color: #795446;
+  font-weight: bold;
+  line-height: 50px;
+}
+
+.card {
+  background-color: #E4DCC7;
+  /*text-align: center;*/
+  padding: 5px 100px 5px 100px;
+  margin: 0px auto 20px auto;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.card .content{
+  padding: 0px 25px 5px 25px;
+}
+
+.card .content h3 {
+  color: #94914E;
+  font-weight: bold;
+}
+
+.title {
+  background-color: #795446;
+  font-weight: bold;
+  padding: 3px 100px;
+  margin: 0px auto;
+  color: #E4DCC7;
+  border-radius: 5px;
+  text-align: center;
+  width: 50%;
+
+}
+
+.header {
+  text-align: center;
+  padding: 10px;
+  margin: 10px auto;
+  width: 50%;
+}
+
+li {
+  list-style-type: none;
+}
+
+.list-line {
+  display: inline-block;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+.logo {
+  font-size: 40px;
+  padding: 10px;
+  color: #795446;
+}
+
+.logo:hover {
+  color: #E4DCC7;
+  font-size: 50px
+}
